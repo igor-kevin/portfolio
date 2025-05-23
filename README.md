@@ -23,7 +23,7 @@ ___
 
 | Projeto | Tecnologias | Descrição do Projeto |
 |--------|-------------|------|
-| [**Classificação de Lixo Reciclável**]() | Python, Scikit-learn, Docker, GitHub Actions |  |
+| [**Classificação de Lixo Reciclável**](https://github.com/igor-kevin/separador-lixo-CL-CD) | Python, Scikit-learn, Docker, GitHub Actions |  |
 | [**Previsão de Fraudes Financeiras**]() | Python, SMOTE, Machine Learning |  |
 
 ---
