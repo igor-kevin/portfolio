@@ -5,8 +5,9 @@ Bem vindo ao meu portfolio!
 Abaixo, organizei alguns dos meus projetos, por categoria, onde tento me desenvolver e aprender. Fique à vontade para explorar!
 ___
 ## Links Direcinais:
-[Análise de Dados]()
-
+* [Análise de Dados](https://github.com/igor-kevin/portfolio/blob/main/README.md#an%C3%A1lise-de-dados-eda)
+* [Machine Learning](https://github.com/igor-kevin/portfolio/blob/main/README.md#an%C3%Machine-Learning)
+* [Dashboards](https://github.com/igor-kevin/portfolio/blob/main/README.md#an%C3%Dashboards)
 ---
 
 ##  Análise de Dados (EDA)
@@ -27,7 +28,7 @@ ___
 
 ---
 
-## Dashboards e Automação
+## Dashboards
 
 | Projeto | Tecnologias | Descrição do Projeto |
 |--------|-------------|------|
