@@ -14,8 +14,9 @@ ___
 
 | Projeto | Bibliotecas | Descrição do Projeto |
 |--------|-------------|------|
-| [**Análise de Penalidades no Futebol**]() | Python, Pandas, Matplotlib | Depois da eliminação do Brasil nos penaltis, fiquei curioso para ver se há um padrão na conversão dos penaltis para cada posição. |
-| [**EDA com Dados de Saúde Mundial (Kaggle)**]() | Python, Seaborn, Pandas | Sempre me interessei por temas globais, então usei esse dataset para investigar como indicadores de saúde variam entre países.  |
+| [**EDA com Dados de Saúde Mundial (Kaggle)**](https://github.com/igor-kevin/Analise-Expec-de-Vida/blob/master/EDA_life_expectancy.ipynb) | Python, Seaborn, Pandas, matplotlib | Sempre me interessei por temas globais, então usei esse dataset para investigar como indicadores de saúde variam entre países.  |
+| [**Análise de Penalidades no Futebol**](https://github.com/igor-kevin/Analise-Penaltis/blob/master/penals.ipynb) | Python, Pandas, Matplotlib | Depois da eliminação do Brasil nos penaltis, fiquei curioso para ver se há um padrão na conversão dos penaltis para cada posição. |
+
 
 ---
 
@@ -23,8 +24,8 @@ ___
 
 | Projeto | Tecnologias | Descrição do Projeto |
 |--------|-------------|------|
-| [**Classificação de Lixo Reciclável**](https://github.com/igor-kevin/separador-lixo-CL-CD) | Python, Scikit-learn, Docker, GitHub Actions |  |
-| [**Previsão de Fraudes Financeiras**]() | Python, SMOTE, Machine Learning |  |
+| [**Classificação de Lixo Reciclável**](https://github.com/igor-kevin/separador-lixo-CL-CD) | Python, Pandas, Tensorflow, Docker, GitHub Actions | Meu primeiro contato com CI/CD (um contato inicial), é uma API que utilizei docker para classificação de imagens de lixo. Ex: papelão, plástico |
+| [**Previsão de Fraudes Financeiras**](https://github.com/igor-kevin/Fraudes01/blob/master/MelhoriaFraudes.ipynb) | Python, SQL(postgres), keras, sklearn, pandas, matplotlib | Um projeto de aprendizado para melhora de previsão de fraudes, onde o desafio era criar algo acima de 65% de acc. Utilize redes neurais e random forest para o desafio. |
 
 ---
 
@@ -32,8 +33,8 @@ ___
 
 | Projeto | Tecnologias | Descrição do Projeto |
 |--------|-------------|------|
-| [**Dashboard de Vendas – Souza Motos**]() | Power BI, Python, Pandas | |
-| [**OCR de Notas Fiscais**]() | Python, OCR, NLP |  |
+| [**Dashboard de Vendas – Dados da Wish**]() | Power BI, Python, Pandas | |
+
 
 ---
 
