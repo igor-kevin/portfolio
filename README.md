@@ -26,6 +26,8 @@ ___
 |--------|-------------|------|
 | [**Classificação de Lixo Reciclável**](https://github.com/igor-kevin/separador-lixo-CL-CD) | Python, Pandas, Tensorflow, Docker, GitHub Actions | Meu primeiro contato com CI/CD (um contato inicial), é uma API que utilizei docker para classificação de imagens de lixo. Ex: papelão, plástico |
 | [**Previsão de Fraudes Financeiras**](https://github.com/igor-kevin/Fraudes01/blob/master/MelhoriaFraudes.ipynb) | Python, SQL(postgres), keras, sklearn, pandas, matplotlib | Um projeto de aprendizado para melhora de previsão de fraudes, onde o desafio era criar algo acima de 65% de acc. Utilize redes neurais e random forest para o desafio. |
+| [**Visão Computacional - Reconhecimento Facial**](https://github.com/igor-kevin/Computer-Vision/blob/main/Verification%20System/SistemadeReconhecimento.py) | opencv, face_recognition |  |
+| [**Visão Computacional - Detector de Emoções**](https://github.com/igor-kevin/Computer-Vision/tree/main/Emotion%20Detection) | opencv, pandas, keras |  |
 
 ---
 
